@@ -16,6 +16,7 @@
   <img align="center" alt="Danillo-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Danillo-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Danillo-Vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Danillo-Vscode" height="30" width="40" src="http://upload.wikimedia.org/wikipedia/de/8/8c/Microsoft_SQL_Server_Logo.svg">
   
 </div>
   
