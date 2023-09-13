@@ -4,7 +4,7 @@
 
 ##
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:450094,100:89004f&height=210&section=header&text=Danillo%20Wozniak%20Soares&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=Front/Back-End%20Developer&descAlignY=50">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:450094,100:89004f&height=210&section=header&text=Danillo%20Wozniak%20Soares&fontSize=30&fontColor=001&animation=fadeIn&fontAlignY=30&desc=Front/Back-End%20Developer&descAlignY=50">
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wozniak7&show_icons=true&theme=radical)
