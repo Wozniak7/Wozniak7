@@ -5,8 +5,8 @@
 - 🌱 Estudando atualmente na Fatec Ipiranga - ADS
 ##
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wozniak7&show_icons=true&theme=synthwave)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wozniak7&layout=compact&theme=synthwave)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=madokki&show_icons=true&theme=synthwave)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madokki&layout=compact&theme=synthwave)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Danillo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
