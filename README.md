@@ -3,6 +3,7 @@
 
 ##
 - 🌱 Estudando atualmente na Fatec Ipiranga - ADS
+- Estagiário Dev na empresa EducaMais
 ##
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wozniak7&show_icons=true&theme=synthwave)
