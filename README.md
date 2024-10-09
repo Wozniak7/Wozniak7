@@ -3,7 +3,7 @@
 
 ##
 - Estudando atualmente na Fatec Ipiranga - ADS
-- Estagiário Dev na empresa EducaMais
+- Estagiário Dev na empresa EducaMais - Vue.js e Laravel
 ##
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wozniak7&show_icons=true&theme=synthwave)
