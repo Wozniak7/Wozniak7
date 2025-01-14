@@ -3,7 +3,8 @@
 
 ##
 - Graduado em Análise e Desenvolvimento de Sistemas pela FATEC Ipiranga 2024.
-- Estagiário Dev na empresa EducaMais - Vue.js e Laravel
+- Programador Júnior na empresa UNIMAIS.
+- Linguagens utilizadas: Vuejs, PHP e Laravel.
 ##
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wozniak7&show_icons=true&theme=synthwave)
