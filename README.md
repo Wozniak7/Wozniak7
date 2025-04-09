@@ -3,8 +3,9 @@
 
 ##
 - Graduado em Análise e Desenvolvimento de Sistemas pela FATEC Ipiranga 2024.
+- Cursando pós-graduação em Ciência de Dados e Big Data.
 - Programador Júnior na empresa UNIMAIS.
-- Linguagens utilizadas: Vuejs, PHP e Laravel.
+- Experiência com desenvolvimento web utilizando Vue.js, PHP (com o framework Laravel) e React com TypeScript.
 ##
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wozniak7&show_icons=true&theme=synthwave)
