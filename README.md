@@ -8,7 +8,7 @@
 - Experiência com desenvolvimento web utilizando Vue.js, PHP (com o framework Laravel) e React com TypeScript.
 ##
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wozniak7&show_icons=true&theme=synthwave)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wozniak7&show_icons=true&theme=synthwave&cache_seconds=86400)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wozniak7&layout=compact&theme=synthwave)
 
 <div style="display: inline_block"><br>
