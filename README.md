@@ -4,7 +4,7 @@
 ##
 - Graduado em Análise e Desenvolvimento de Sistemas pela FATEC Ipiranga 2024.
 - Cursando pós-graduação em Ciência de Dados e Big Data.
-- Programador Júnior na empresa UNIMAIS.
+- Desenvolvedor Full Stack com experiência em DevOps na empresa UNIMAIS.
 - Experiência com desenvolvimento web utilizando Vue.js, PHP (com o framework Laravel) e React com TypeScript.
 ##
 
