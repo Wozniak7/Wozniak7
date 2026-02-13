@@ -10,12 +10,10 @@
   <p align="center">
     Atuo como <b>Coordenador de Desenvolvimento</b> na <b>UNIMAIS</b>. <br>
     Minha especialidade é unir desenvolvimento Full Stack robusto com uma infraestrutura confiável.
-    Lidero equipes focadas em performance, segurança e entregas ágeis.
+    Lidero equipe focada em performance, segurança e entregas ágeis.
   </p>
 
 </div>
-
----
 
 <div align="center">
 
