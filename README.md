@@ -1,22 +1,16 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24292e,100:6e5494&height=220&section=header&text=Danillo%20Wozniak&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Coordenador%20de%20Desenvolvimento%20%7C%20Tech%20Lead&descAlignY=55">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Danillo%20Wozniak&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Coordenador%20de%20Desenvolvimento%20%7C%20Tech%20Lead&descAlignY=55">
 </div>
 
 <div align="center">
   
   <br>
-  
-  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"></code>
-  
-  <br><br>
 
-  ### 💼 Perfil Profissional
   
   <p align="center">
-    Coordenador de Equipe na <b>UNIMAIS</b>. Foco em arquitetura escalável, liderança técnica e cultura DevOps.
-    Transformo requisitos de negócio em soluções de código robustas.
+    Atuo como <b>Coordenador de Desenvolvimento</b> na <b>UNIMAIS</b>. <br>
+    Minha especialidade é unir desenvolvimento Full Stack robusto com uma infraestrutura confiável.
+    Lidero equipes focadas em performance, segurança e entregas ágeis.
   </p>
 
 </div>
@@ -24,12 +18,18 @@
 ---
 
 <div align="center">
-  
-  ### 📊 Tech & Data Overview
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Wozniak7&show_icons=true&theme=dracula&hide_border=true&count_private=true" height="160" alt="Stats" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wozniak7&layout=donut&theme=dracula&hide_border=true&exclude_repo=github-readme-stats" height="160" alt="Languages" />
+  <a href="https://github.com/ryo-ma/github-profile-trophies">
+    <img src="https://github-profile-trophies.vercel.app/?username=Wozniak7&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+  </a>
+
+  <br><br>
+
+  <div style="display: flex; justify-content: center; gap: 10px;">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Wozniak7&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="150" alt="stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wozniak7&layout=compact&theme=radical&hide_border=true&langs_count=6" height="150" alt="languages" />
+  </div>
 
 </div>
 
@@ -37,55 +37,42 @@
 
 <div align="center">
 
-  ### 🛠️ Stack Tecnológico
 
-  <table>
-    <tr>
-      <td align="center" width="90">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="45" height="45" />
-        <br>JavaScript
-      </td>
-      <td align="center" width="90">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="45" height="45" />
-        <br>TypeScript
-      </td>
-      <td align="center" width="90">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="45" height="45" />
-        <br>React
-      </td>
-      <td align="center" width="90">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="icon" width="45" height="45" />
-        <br>Vue.js
-      </td>
-      <td align="center" width="90">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="icon" width="45" height="45" />
-        <br>PHP
-      </td>
-      <td align="center" width="90">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="icon" width="45" height="45" />
-        <br>Laravel
-      </td>
-      <td align="center" width="90">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="45" height="45" />
-        <br>Python
-      </td>
-      <td align="center" width="90">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="icon" width="45" height="45" />
-        <br>Postgres
-      </td>
-    </tr>
-  </table>
+  <p><b>☁️ Infraestrutura & Server Management</b></p>
+  <img src="https://img.shields.io/badge/AlmaLinux_8-102855?style=for-the-badge&logo=almalinux&logoColor=white" alt="AlmaLinux">
+  <img src="https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white" alt="cPanel">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+
+  <br>
+
+  <p><b>⚙️ Backend & Database</b></p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <br>
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres">
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQLServer">
+
+  <br>
+
+  <p><b>💻 Frontend & Interfaces</b></p>
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TS">
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
 
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wozniak7&theme=dracula&hide_border=true" alt="Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wozniak7&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="streak stats"/>
 </div>
 
 <br>
-
 <div align="center"> 
   <a href="https://instagram.com/d.soaress7" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank">
@@ -93,7 +80,7 @@
   <a href="mailto:danillowsoares@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
-  <a href="https://linkedin.com/in/SEU-LINKEDIN">
+  <a href="www.linkedin.com/in/danillo-soares-325a10230/?skipRedirect=true">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
 </div>
