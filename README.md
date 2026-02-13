@@ -23,15 +23,11 @@
   </a>
 
   <br><br>
-
-  <div style="display: flex; justify-content: center; gap: 10px;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Wozniak7&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="150" alt="stats" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wozniak7&layout=compact&theme=radical&hide_border=true&langs_count=6" height="150" alt="languages" />
-  </div>
-
 </div>
 
 <br>
+
+---
 
 <div align="center">
   
@@ -150,6 +146,8 @@
 
 <br>
 
+---
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wozniak7&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="streak stats"/>
 </div>
@@ -162,7 +160,7 @@
   <a href="mailto:danillowsoares@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
-  <a href="www.linkedin.com/in/danillo-soares-325a10230" target="_blank">
+  <a href="https://linkedin.com/in/danillo-soares-325a10230" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
 </div>
