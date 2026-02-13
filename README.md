@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Danillo%20Wozniak&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Coordenador%20de%20Desenvolvimento%20%7C%20Tech%20Lead&descAlignY=55">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Danillo%20Wozniak&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Coordenador%20de%20Desenvolvimento%20%7C%20Dev%20Full%20Stack&descAlignY=55">
 </div>
 
 <div align="center">
