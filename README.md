@@ -34,50 +34,118 @@
 <br>
 
 <div align="center">
-  <h3>🛠️ Tech Stack & Ferramentas</h3>
   
-  <p><b>Frontend & Mobile</b></p>
-  <div style="display: inline_block">
-    <img align="center" alt="Vue" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-    <img align="center" alt="React" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" alt="Ts" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-    <img align="center" alt="HTML" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Bootstrap" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-  </div>
+  <h3>💻 Frontend, Mobile & Backend</h3>
+  
+  <table>
+    <tr>
+      <td align="center" width="90">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="45" height="45" />
+        <br>JavaScript
+      </td>
+      <td align="center" width="90">
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="45" height="45" />
+        <br>TypeScript
+      </td>
+      <td align="center" width="90">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="45" height="45" />
+        <br>React
+      </td>
+      <td align="center" width="90">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="icon" width="45" height="45" />
+        <br>Vue.js
+      </td>
+      <td align="center" width="90">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="icon" width="45" height="45" />
+        <br>HTML5
+      </td>
+      <td align="center" width="90">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="icon" width="45" height="45" />
+        <br>CSS3
+      </td>
+      <td align="center" width="90">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="icon" width="45" height="45" />
+        <br>Bootstrap
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="90">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="icon" width="45" height="45" />
+        <br>PHP
+      </td>
+      <td align="center" width="90">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="icon" width="45" height="45" />
+        <br>Laravel
+      </td>
+      <td align="center" width="90">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="icon" width="45" height="45" />
+        <br>Node.js
+      </td>
+      <td align="center" width="90">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="45" height="45" />
+        <br>Python
+      </td>
+      <td align="center" width="90">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="icon" width="45" height="45" />
+        <br>C
+      </td>
+      <td align="center" width="90"></td>
+      <td align="center" width="90"></td>
+    </tr>
+  </table>
 
   <br>
 
-  <p><b>Backend & Core</b></p>
-  <div style="display: inline_block">
-    <img align="center" alt="PHP" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-    <img align="center" alt="Laravel" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
-    <img align="center" alt="Node" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-    <img align="center" alt="Python" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="C" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  </div>
+ <h3>☁️ Infra, DevOps & Banco de Dados</h3>
 
-  <br>
-
-  <p><b>Database & Cloud</b></p>
-  <div style="display: inline_block">
-    <img align="center" alt="Postgres" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-    <img align="center" alt="MariaDB" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg">
-    <img align="center" alt="SQLServer" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
-    <img align="center" alt="Aiven" height="45" width="55" src="https://assets.wheelhouse.com/media/_solution_logo_09222023_26755928.png">
-  </div>
-
-  <br>
-
-  <p><b>DevOps, Server & Infra</b></p>
-  <div style="display: inline_block">
-    <img align="center" alt="Git" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-    <img align="center" alt="Docker" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-    <img align="center" alt="AlmaLinux" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="AlmaLinux/Linux Server">
-    <img align="center" alt="cPanel" height="40" width="55" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/CPanel_logo.svg">
-    <img align="center" alt="Postman" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg">
-    <img align="center" alt="Vscode" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  </div>
+  <table>
+    <tr>
+      <td align="center" width="90">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="icon" width="45" height="45" />
+        <br>Postgres
+      </td>
+      <td align="center" width="90">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" alt="icon" width="45" height="45" />
+        <br>MariaDB
+      </td>
+      <td align="center" width="90">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="icon" width="45" height="45" />
+        <br>SQL Server
+      </td>
+     <td align="center" width="90">
+        <img src="https://assets.wheelhouse.com/media/_solution_logo_09222023_26755928.png" alt="icon" width="45" height="45" />
+        <br>Aiven
+      </td>
+      <td align="center" width="90">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="icon" width="45" height="45" />
+        <br>Git
+      </td>
+      <td align="center" width="90">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="icon" width="45" height="45" />
+        <br>Docker
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="90">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="icon" width="45" height="45" />
+        <br>AlmaLinux
+      </td>
+      <td align="center" width="90">
+        <img src="https://cdn.simpleicons.org/cpanel/FF6C2C" alt="icon" width="45" height="45" />
+        <br>cPanel
+      </td>
+      <td align="center" width="90">
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="45" height="45" />
+        <br>Postman
+      </td>
+      <td align="center" width="90">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="icon" width="45" height="45" />
+        <br>VS Code
+      </td>
+      <td align="center" width="90"></td>
+      <td align="center" width="90"></td>
+    </tr>
+  </table>
 </div>
 
 <br>
